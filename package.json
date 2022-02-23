@@ -21,17 +21,19 @@
   "devDependencies": {
     "@babel/core": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
-    "ajv": "^6.12.5",
-    "glob": "^7.1.6",
-    "lodash": "^4.17.20",
+    "ajv": "^8.10.0",
+    "glob": "^7.2.0",
+    "lodash": "^4.17.21",
     "path": "^0.12.7",
     "serialize-javascript": ">=3.1.0",
-    "serve": "^11.3.2",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11"
+    "serve": "^13.0.2",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
   },
-  "dependencies": {},
   "bugs": {
     "url": "https://github.com/inwebo/npm-boilerplate/issues"
+  },
+  "dependencies": {
+    "@inwebo/vector": "^0.0.11"
   }
 }

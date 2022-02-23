@@ -1,10 +1,8 @@
-# npm-boilerplate
+# De nouvelles mentions pour la publicité automobile à partir du 1er mars 2022
 
 ## Installation
-```bash
-git clone https://github.com/inwebo/npm-boilerplate.git <new-repo-name>
-cd <new-repo-name>
-git remote remove origin
-git remote set-url origin <url-of-new-repo>
-git push -u --all
-```
+
+## Webographie
+
+* [arpp.org](https://www.arpp.org/actualite/nouvelles-mentions-publicite-automobile-1er-mars-2022/#9)
+* [Arrêté du 28 décembre 2021 pris pour l'application de l'article R. 229-105 du code de l'environnement](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044590181)
