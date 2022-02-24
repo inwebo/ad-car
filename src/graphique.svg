@@ -2,17 +2,32 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1620"
    height="1632"
    viewBox="0 0 1620 1632"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="graphique.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="graphique.svg">
+  <metadata
+     id="metadata122">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#505050"
@@ -25,102 +40,99 @@
      showgrid="true"
      units="px"
      width="2048px"
-     inkscape:zoom="0.25"
-     inkscape:cx="288"
-     inkscape:cy="800"
-     inkscape:window-width="1131"
-     inkscape:window-height="1035"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer9"
-     showguides="true"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="198.00926"
+     inkscape:cy="386.74424"
+     inkscape:window-width="1920"
+     inkscape:window-height="980"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4"
+     showguides="false"
      inkscape:guide-bbox="true"
      scale-x="1">
     <inkscape:grid
        type="xygrid"
        id="grid9" />
     <sodipodi:guide
-       position="180,1632"
-       orientation="-1,0"
-       id="guide3883"
-       inkscape:label=""
-       inkscape:locked="false"
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="95.249998,463.54999"
-       orientation="-1,0"
-       id="guide3885"
-       inkscape:label=""
-       inkscape:locked="false"
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="360,1752"
-       orientation="-1,0"
-       id="guide3887"
-       inkscape:label=""
-       inkscape:locked="false"
-       inkscape:color="rgb(0,0,255)" />
-    <sodipodi:guide
-       position="560,1632"
-       orientation="-1,0"
+       position="180,0"
+       orientation="1,0"
        id="guide3889"
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="190.5,463.54999"
-       orientation="-1,0"
-       id="guide3891"
-       inkscape:label=""
+       position="360,0"
+       orientation="1,0"
+       id="guide3829"
        inkscape:locked="false"
+       inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="238.12499,463.54999"
-       orientation="-1,0"
-       id="guide3893"
-       inkscape:label=""
+       position="540,0"
+       orientation="1,0"
+       id="guide3833"
        inkscape:locked="false"
+       inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="285.74999,463.54999"
-       orientation="-1,0"
-       id="guide3895"
-       inkscape:label=""
+       position="0,0"
+       orientation="1,0"
+       id="guide3835"
        inkscape:locked="false"
+       inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="333.37499,463.54999"
-       orientation="-1,0"
-       id="guide3897"
-       inkscape:label=""
+       position="900,0"
+       orientation="1,0"
+       id="guide3837"
        inkscape:locked="false"
+       inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="380.99999,463.54999"
-       orientation="-1,0"
-       id="guide3899"
-       inkscape:label=""
+       position="720,0"
+       orientation="1,0"
+       id="guide3839"
        inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1080,0"
+       orientation="1,0"
+       id="guide3841"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1260,0"
+       orientation="1,0"
+       id="guide3843"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1440,0"
+       orientation="1,0"
+       id="guide3845"
+       inkscape:locked="false"
+       inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <defs
      id="defs2" />
   <g
-     inkscape:label="Back"
-     inkscape:groupmode="layer"
-     id="layer1" />
-  <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Couleurs">
+     inkscape:label="Couleurs"
+     style="display:none">
     <g
        inkscape:groupmode="layer"
        id="layer7"
        inkscape:label="Classe G"
        style="display:inline">
       <rect
-         style="fill:#ff0000;fill-opacity:1;stroke-width:0.391676;stroke:none"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.39167601"
          id="rect308"
          width="180"
          height="360"
@@ -130,9 +142,10 @@
     <g
        inkscape:groupmode="layer"
        id="layer13"
-       inkscape:label="Classe F">
+       inkscape:label="Classe F"
+       style="display:inline">
       <rect
-         style="display:inline;fill:#ff4d00;fill-opacity:1;stroke-width:0.375;stroke:none"
+         style="display:inline;fill:#ff4d00;fill-opacity:1;stroke:none;stroke-width:0.375"
          id="rect1476-3-6-7-3"
          width="180"
          height="180"
@@ -142,13 +155,23 @@
     <g
        inkscape:groupmode="layer"
        id="layer12"
-       inkscape:label="Classe E" />
+       inkscape:label="Classe E"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#ffb200;fill-opacity:1;stroke:none;stroke-width:0.375"
+         id="rect1476-3-6-7-5"
+         width="180"
+         height="180"
+         x="-196"
+         y="848" />
+    </g>
     <g
        inkscape:groupmode="layer"
        id="layer11"
-       inkscape:label="Classe D">
+       inkscape:label="Classe D"
+       style="display:inline">
       <rect
-         style="display:inline;fill:#ffff00;fill-opacity:1;stroke-width:0.375;stroke:none"
+         style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.375"
          id="rect1476-3-6-7"
          width="180"
          height="180"
@@ -158,9 +181,10 @@
     <g
        inkscape:groupmode="layer"
        id="layer10"
-       inkscape:label="Classe C">
+       inkscape:label="Classe C"
+       style="display:inline">
       <rect
-         style="display:inline;fill:#b2ff00;fill-opacity:1;stroke-width:0.375;stroke:none"
+         style="display:inline;fill:#b2ff00;fill-opacity:1;stroke:none;stroke-width:0.375"
          id="rect1476-3-6"
          width="180"
          height="180"
@@ -173,7 +197,7 @@
        inkscape:label="Classe B"
        style="display:inline">
       <rect
-         style="display:inline;fill:#4dff00;fill-opacity:1;stroke-width:0.375;stroke:none"
+         style="display:inline;fill:#4dff00;fill-opacity:1;stroke:none;stroke-width:0.375"
          id="rect1476-3"
          width="180"
          height="180"
@@ -186,19 +210,12 @@
        inkscape:label="Classe A"
        style="display:inline">
       <rect
-         style="fill:#00ff00;fill-opacity:1;stroke-width:0.375;stroke:none"
+         style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.375"
          id="rect1476"
          width="180"
          height="180"
          x="-196"
          y="0" />
-      <rect
-         style="fill:#ffb200;fill-opacity:1;stroke-width:0.375;stroke:none"
-         id="rect1476-3-6-7-5"
-         width="180"
-         height="180"
-         x="-196"
-         y="848" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -206,21 +223,21 @@
        inkscape:label="Separator"
        style="display:inline">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.137649;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.137649"
          id="rect2928"
          width="180"
          height="32"
          x="-196"
          y="180" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.137649;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.137649"
          id="rect2928-2"
          width="180"
          height="32"
          x="-196"
          y="392" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.137649;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.137649"
          id="rect2928-2-9"
          width="180"
          height="32"
@@ -234,19 +251,67 @@
          x="-196"
          y="1240" />
       <rect
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.137649;stroke:none"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.137649"
          id="rect2928-2-9-2"
          width="180"
          height="32"
          x="-196"
          y="1028" />
       <rect
-         style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.137649;stroke:none"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.137649"
          id="rect2928-2-9-2-7"
          width="180"
          height="32"
          x="-196"
          y="816" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Fleches"
+     style="display:inline">
+    <path
+       style="display:inline;fill:#4dff00;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 540,212 180,90 -180,90 H 0 V 212 Z"
+       id="path3952-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#b2ff00;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 720,424 180,90 -180,90 H 0 V 424 Z"
+       id="path3952-5-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 900,636 180,90 -180,90 H 0 V 636 Z"
+       id="path3952-5-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#ffb200;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1080,848 180,90 -180,90 H 0 V 848 Z"
+       id="path3952-5-3-1-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#ff4d00;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1260,1060 180,90 -180,90 H 0 v -180 z"
+       id="path3952-5-3-1-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:6.23538303px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1440,1272 180,180 -180,180 H 0 v -360 z"
+       id="path3952-5-3-1-2-7-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 360,0 540,90 360,180 H 0 V 0 Z"
+       id="path3952"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
   </g>
 </svg>
