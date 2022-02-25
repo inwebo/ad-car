@@ -1,20 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1620" height="1632">
-  <g style="display:inline">
-    <path style="display:inline;fill:#4dff00;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m540 212 180 90-180 90H0V212Z"/>
-    <path style="display:inline;fill:#b2ff00;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m720 424 180 90-180 90H0V424Z"/>
-    <path style="display:inline;fill:#ff0;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m900 636 180 90-180 90H0V636Z"/>
-    <path style="display:inline;fill:#ffb200;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m1080 848 180 90-180 90H0V848Z"/>
-    <path style="display:inline;fill:#ff4d00;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m1260 1060 180 90-180 90H0v-180z"/>
-    <path style="display:inline;fill:red;fill-opacity:1;stroke:none;stroke-width:6.23538303px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m1440 1272 180 180-180 180H0v-360z"/>
-    <path style="display:inline;fill:#0f0;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m360 0 180 90-180 90H0V0Z"/>
+<svg
+        id="co2-classes"
+        xmlns="http://www.w3.org/2000/svg"
+        width="1620"
+        height="1632"
+>
+  <style>
+    @import url(./style.css);
+  </style>
+
+  <g id="co2-classes-arrows">
+    <path
+            id="co2-classes-arrows-a"
+            style="display:inline;fill:#4dff00;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+            d="m540 212 180 90-180 90H0V212Z"
+    />
+    <path
+            id="co2-classes-arrows-b"
+            style="display:inline;fill:#b2ff00;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+            d="m720 424 180 90-180 90H0V424Z"
+    />
+    <path
+            id="co2-classes-arrows-c"
+            style="display:inline;fill:#ff0;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+            d="m900 636 180 90-180 90H0V636Z"
+    />
+    <path
+            id="co2-classes-arrows-d"
+            style="display:inline;fill:#ffb200;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+            d="m1080 848 180 90-180 90H0V848Z"
+    />
+    <path
+            id="co2-classes-arrows-e"
+            style="display:inline;fill:#ff4d00;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+            d="m1260 1060 180 90-180 90H0v-180z"
+    />
+    <path
+            id="co2-classes-arrows-f"
+            style="display:inline;fill:red;fill-opacity:1;stroke:none;stroke-width:6.23538303px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+            d="m1440 1272 180 180-180 180H0v-360z"
+    />
+    <path
+            id="co2-classes-arrows-g"
+            style="display:inline;fill:#0f0;fill-opacity:1;stroke:none;stroke-width:4.40908146px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+            d="m360 0 180 90-180 90H0V0Z"
+    />
   </g>
-  <text xml:space="preserve" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="17.521769" y="140"><tspan x="17.521769" y="140" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">A</tspan></text>
-  <text xml:space="preserve" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="8.8814468" y="352"><tspan x="8.8814468" y="352" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">B</tspan></text>
-  <text xml:space="preserve" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="10.689886" y="563.93304"><tspan x="10.689886" y="563.93304" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">C</tspan></text>
-  <text xml:space="preserve" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="10.689886" y="776"><tspan x="10.689886" y="776" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">D</tspan></text>
-  <text xml:space="preserve" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="6.8050904" y="988"><tspan x="6.8050904" y="988" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">E</tspan></text>
-  <text xml:space="preserve" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="6.8050904" y="1200"><tspan x="6.8050904" y="1200" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">F</tspan></text>
-  <text xml:space="preserve" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="7.8050847" y="1501.933"><tspan x="7.8050847" y="1501.933" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">G</tspan></text>
-  <text xml:space="preserve" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="259.80508" y="1501.933"><tspan x="259.80508" y="1501.933" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">110</tspan></text>
-  <text xml:space="preserve" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="649.80511" y="1489.3744"><tspan x="649.80511" y="1489.3744" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">gCO2/km</tspan></text>
+  <g id="co2-classes-text">
+    <text id="co2-classes-text-a" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="17.521769" y="140"><tspan x="17.521769" y="140" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">A</tspan></text>
+    <text id="co2-classes-text-b" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="8.8814468" y="352"><tspan x="8.8814468" y="352" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">B</tspan></text>
+    <text id="co2-classes-text-c" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="10.689886" y="563.93304"><tspan x="10.689886" y="563.93304" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">C</tspan></text>
+    <text id="co2-classes-text-d" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="10.689886" y="776"><tspan x="10.689886" y="776" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">D</tspan></text>
+    <text id="co2-classes-text-e" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="6.8050904" y="988"><tspan x="6.8050904" y="988" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">E</tspan></text>
+    <text id="co2-classes-text-f" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="6.8050904" y="1200"><tspan x="6.8050904" y="1200" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">F</tspan></text>
+    <text id="co2-classes-text-g" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="7.8050847" y="1501.933"><tspan x="7.8050847" y="1501.933" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">G</tspan></text>
+  </g>
+  <g id="co2-classes-text-current">
+    <text id="co2-classes-text-current-value" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="259.80508" y="1501.933"><tspan x="259.80508" y="1501.933" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">110</tspan></text>
+    <text id="co2-classes-text-current-unity" style="font-style:normal;font-weight:400;font-size:137.17347717px;line-height:1.25;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#000;fill-opacity:1;stroke:#000;stroke-width:3.42933679;stroke-opacity:1" x="649.80511" y="1489.3744"><tspan x="649.80511" y="1489.3744" style="font-style:normal;font-variant:normal;font-weight:400;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;fill:#fff;stroke-width:3.42933679;stroke:#000;stroke-opacity:1">gCO2/km</tspan></text>
+  </g>
 </svg>
